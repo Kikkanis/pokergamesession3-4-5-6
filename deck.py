@@ -1,3 +1,8 @@
+#This script defines a simple playing card system with a Card and Deck class.
+#It allows for creating, shuffling, and dealing cards from a standard 52-card deck.
+# this was done while following in class
+
+
 import random
 
 
