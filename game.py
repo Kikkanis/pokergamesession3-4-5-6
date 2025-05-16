@@ -1,3 +1,9 @@
+"This script simulates 5-card poker hands to estimate the probability of drawing a straight.
+"It defines a Hand class to evaluate hand types such as flush, full house, and straight.
+"Each hand is dealt from a freshly shuffled standard deck.
+"The simulation continues until a straight is found or a max limit is reached.
+
+
 from deck import Deck, Card
 from collections import Counter
 
